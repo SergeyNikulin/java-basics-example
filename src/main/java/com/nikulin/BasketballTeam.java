@@ -1,6 +1,7 @@
 package com.nikulin;
 
 public class BasketballTeam extends SportTeam {
+
     private final KindSport kindSport;
     private final int limitPlayer = 5;
     private static int countTeam;

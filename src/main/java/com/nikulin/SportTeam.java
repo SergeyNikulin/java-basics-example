@@ -3,6 +3,7 @@ package com.nikulin;
 import java.util.ArrayList;
 
 public abstract class SportTeam {
+
     private String name;
     private String city;
     private String owner;
